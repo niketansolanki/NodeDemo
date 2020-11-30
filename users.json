@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "firstname": "Niketan",
+        "lastname": "Solanki",
+        "mobilenumber": 9624319218,
+        "altmobilenumber": 1234567891,
+        "email": "niketansolanki@gmail.com",
+        "gender": "Male",
+        "hobbies": {
+            "reading": true,
+            "playing_games": false,
+            "travelling": true
+        },
+        "street1": "12,Shivnarayan Society,Bavla",
+        "street2": "Girl's School Road,Bavla",
+        "country": "India",
+        "state": "Gujarat",
+        "zip": 382220,
+        "createdat": 1605671843918,
+        "modifiedat": 1605878752578
+    },
+    {
+        "id": 2,
+        "firstname": "VishalKumar",
+        "lastname": "Solanki",
+        "mobilenumber": 1234567892,
+        "altmobilenumber": 1234567891,
+        "email": "niketansolanki123@gmail.com",
+        "gender": "Male",
+        "hobbies": {
+            "reading": true,
+            "playing_games": true,
+            "travelling": false
+        },
+        "street1": "12,Shivnarayan Society,Bavla",
+        "street2": "Girl's School Road,Bavla",
+        "country": "Rasia",
+        "state": "Gujarat",
+        "zip": 382222,
+        "createdat": 1605671843918,
+        "modifiedat": 1605680315201
+    },
+    {
+        "id": 3,
+        "firstname": "Gaurav",
+        "lastname": "Rangapariya",
+        "mobilenumber": 9624319213,
+        "altmobilenumber": 2222555544,
+        "email": "niketan@gmail.com",
+        "gender": "Male",
+        "hobbies": {
+            "reading": true,
+            "playing_games": true,
+            "travelling": false
+        },
+        "street1": "12,Shivnarayan Society",
+        "street2": "Girl's School Road,Bavla",
+        "country": "England",
+        "state": "Delhi",
+        "zip": 382223,
+        "createdat": 1605673064033,
+        "modifiedat": 1605872621047
+    },
+    {
+        "id": 4,
+        "firstname": "sdsf",
+        "lastname": "ffgdf",
+        "mobilenumber": 1323112321,
+        "altmobilenumber": null,
+        "email": "dfgf@ff",
+        "gender": "Male",
+        "hobbies": {
+            "reading": true,
+            "playing_games": true,
+            "travelling": false
+        },
+        "street1": "dfb",
+        "street2": "bdfas",
+        "country": "USA",
+        "state": "Rajshthan",
+        "zip": 243243,
+        "createdat": 1605784533433,
+        "modifiedat": 1605876164245
+    }
+]
